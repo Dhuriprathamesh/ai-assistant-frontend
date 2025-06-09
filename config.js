@@ -1,11 +1,9 @@
 const config = {
-    // Development
     development: {
         apiUrl: 'http://localhost:5000'
     },
-    // Production
     production: {
-        apiUrl: 'https://ai-assistant-backend-7yp9.onrender.com' // Replace with your actual deployed backend URL
+        apiUrl: 'https://ai-assistant-backend-7yp9.onrender.com'  // Your actual Render.com URL
     }
 };
 
