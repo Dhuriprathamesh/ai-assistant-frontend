@@ -5,7 +5,7 @@ const config = {
     },
     // Production
     production: {
-        apiUrl: 'https://ai-assistant-backend.onrender.com' // Replace with your actual deployed backend URL
+        apiUrl: 'https://ai-assistant-backend-7yp9.onrender.com' // Replace with your actual deployed backend URL
     }
 };
 
